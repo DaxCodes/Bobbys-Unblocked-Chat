@@ -7,3 +7,5 @@ Features:
 - Admin commands
 - Timestamps
 - Open-source code
+
+<img src="https://github.com/user-attachments/assets/2dfcafd2-92e5-4e1c-a646-8f7583d12fd8" align="center"/>
